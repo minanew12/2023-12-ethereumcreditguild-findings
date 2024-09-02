@@ -26,10 +26,6 @@ Judges have the ultimate discretion in determining validity and severity of issu
 
 For each High or Medium risk finding that appears in the dropdown at the top of the chrome extension, please label as one of these:
 
-- `sponsor confirmed`, meaning: "Yes, this is a problem and we intend to fix it."
-- `sponsor disputed`, meaning either: "We cannot duplicate this issue" or "We disagree that this is an issue at all."
-- `sponsor acknowledged`, meaning: "Yes, technically the issue is correct, but we are not going to resolve it for xyz reasons."
-
 Add any necessary comments explaining your rationale for your evaluation of the issue. 
 
 **Note that when the repo is public, after all issues are mitigated, wardens will read these comments; they may also be included in your C4 audit report.**
